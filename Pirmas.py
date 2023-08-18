@@ -4,3 +4,6 @@ def skaiciuok(a, b):
 skaiciuok(2,4)
 
 print('sukurkime dar viena faila')
+"""
+Pildome dokumentacija, darydami uzduoti su triju failu pildymu
+"""
